@@ -2,7 +2,7 @@
 
 - 🔨: Estou trabalhando : Back-end;
 - 📚: Estou aprendendo: C#, Sql,.Net , Angular, ReactJs, Java;
-- ☕: Transformando café em codigo; 
+- ☕: TypeCasting café em codigo; 
 - 😄: Desenvolvedor não finaliza a frase com ponto, finaliza com ponto e virgular ;
 
 
