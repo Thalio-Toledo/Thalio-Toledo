@@ -10,16 +10,12 @@
 ##
 
 <div align="center">
-
-  <div align="right">
   <a href="https://github.com/Thalio-Toledo">
   <img align="top" height="250em" src="https://github-readme-stats.vercel.app/api?username=Thalio-Toledo&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  </div>
-  
-   <div align="left">
+</div>
+  <div align="center">
   <img height="400em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thalio-Toledo&layout=demo&langs_count=7&theme=merko"/>
    </div>
-</div>
   
   
 <div style="display: inline_block"><br>
