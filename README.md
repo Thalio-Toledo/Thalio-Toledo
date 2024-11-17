@@ -3,9 +3,6 @@
 - 🔨: Estou trabalhando : Angular;
 - 📚: Estou aprendendo: C#, Sql,.Net , Angular, ReactJs, Java;
 - ☕: TypeCasting de café em codigo; 
-- 😄: Desenvolvedor não finaliza a frase com ponto, finaliza com ponto e virgular ;
-
-
 
 ##
 
