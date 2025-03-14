@@ -1,4 +1,4 @@
-### Olá eu sou o Thalio Toledo ✌
+### Hello I'm Thalio Toledo ✌
 
 - 🔨: Estou trabalhando : Angular;
 - 📚: Estou aprendendo: C#, Sql,.Net , Angular, ReactJs, Java;
