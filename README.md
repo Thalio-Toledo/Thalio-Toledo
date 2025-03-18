@@ -1,7 +1,6 @@
 ### Hello I'm Thalio Toledo ✌
 
-- 🔨: Estou trabalhando : Angular;
-- 📚: Estou aprendendo: C#, Sql,.Net , Angular, ReactJs, Java;
+- 🔨: I am working : C# and Angular;
 - ☕: TypeCasting de café em codigo;
 
  <div>
