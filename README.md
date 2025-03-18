@@ -1,7 +1,7 @@
 ### Hello I'm Thalio Toledo ✌
 
 - 🔨: I am working : C# and Angular;
-- ☕: TypeCasting de café em codigo;
+- ☕: TypeCasting coffee to code;
 
  <div>
  <a href="https://discord.gg/dsrPH9kP" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
